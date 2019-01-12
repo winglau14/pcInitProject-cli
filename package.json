@@ -1,7 +1,7 @@
 {
-  "name": "{{name}}",
-  "version": "1.0.0",
-  "description": "{{description}}",
+  "name": "winglau14-cli",
+  "version": "0.0.1",
+  "description": "项目初始化构建脚手架工具",
   "bin":{
     "winglau14": "index.js"
   },
@@ -9,8 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "{{author}}",
+  "author": "winglau14",
   "license": "ISC",
+  "keywords": [
+    "winglau14-cli",
+    "pc原生开发脚手架",
+    "原生开发脚手架",
+    "项目初始化构建脚手架工具"
+  ],
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.19.0",
