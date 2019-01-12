@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "{{description}}",
   "bin":{
-    "okii": "index.js"
+    "winglau14": "index.js"
   },
   "main": "index.js",
   "scripts": {
